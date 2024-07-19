@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "voluptate",
+    "price": 100.0,
+    "count": 12,
+    "unit": "pcs",
+    "description": "esse pariatur magna in Lorem est ullamco minim officia nostrud"
+  },
+  {
+    "id": 2,
+    "name": "irure",
+    "price": 100.0,
+    "count": 120,
+    "unit": "pcs",
+    "description": "esse nostrud irure nisi ex commodo excepteur minim in anim"
+  },
+  {
+    "id": 3,
+    "name": "sunt",
+    "price": 1400.0,
+    "count": 41,
+    "unit": "pcs",
+    "description": "commodo deserunt dolore nulla exercitation tempor aliquip sint enim voluptate"
+  },
+  {
+    "id": 4,
+    "name": "incididunt",
+    "price": 123.0,
+    "count": 169,
+    "unit": "pcs",
+    "description": "mollit veniam quis quis sit mollit laborum ullamco Lorem fugiat"
+  },
+  {
+    "id": 5,
+    "name": "adipisicing",
+    "price": 456.0,
+    "count": 121,
+    "unit": "pcs",
+    "description": "duis voluptate eiusmod fugiat ut nisi eu culpa ad irure"
+  },
+  {
+    "id": 6,
+    "name": "esse",
+    "price": 123.0,
+    "count": 123,
+    "unit": "pcs",
+    "description": "ad culpa anim quis officia sint aute occaecat exercitation non"
+  },
+  {
+    "id": 7,
+    "name": "ut",
+    "price": 56.0,
+    "count": 0,
+    "unit": "pcs",
+    "description": "minim ea quis nulla consequat nulla nisi commodo irure culpa"
+  }
+]

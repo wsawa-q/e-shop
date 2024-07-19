@@ -1,0 +1,12 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "balance": 998200.0
+  },
+  {
+    "username": "sawa",
+    "password": "sawa",
+    "balance": 9.999999999819E14
+  }
+]
